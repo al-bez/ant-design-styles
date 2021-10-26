@@ -1,0 +1,17 @@
+.container {
+    margin-left: 20px;
+}
+
+.header {
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 15px;
+}
+
+.inputsContainer {
+    margin-top: 22px;
+}

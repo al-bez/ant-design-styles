@@ -1,0 +1,60 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    align-items: center;
+    vertical-align: middle;
+    margin-bottom: 40px;
+    margin-left: 23px;
+}
+
+.logo p {
+    font-family: SF Pro Text, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #5398DF;
+    margin: 0 0 0 10px;
+}
+
+.credentialsBlock {
+    background-color: #FFFFFF;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.userInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+    margin-left: 23px;
+}
+
+.userInfo p {
+    font-family: SF Pro Text, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    margin: 0 0 0 10px;
+}
+
+.logout {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+    margin-bottom: 12px;
+    margin-left: 23px;
+}
+
+.logout p {
+    font-family: SF Pro Text, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    margin: 0 0 0 10px;
+}

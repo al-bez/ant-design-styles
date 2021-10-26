@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -15px;
+}
+
+.firstColumn {
+    width: 112px;
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.secondColumn {
+    width: 172px;
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.thirdColumn {
+    width: 198px;
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.fourthColumn {
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 36px;
+    color: #000000;
+}

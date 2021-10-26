@@ -1,0 +1,38 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 12px;
+    vertical-align: middle;
+}
+
+.label {
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+    margin-right: 39px;
+}
+
+.uploader {
+    margin-left: 39px;
+}
+
+label:hover {
+    cursor: pointer;
+}
+
+.inputFile {
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    color: #40A9FF;
+    margin-left: 12px;
+}
+
+.deleteIcon {
+    margin-left: 153px;
+}

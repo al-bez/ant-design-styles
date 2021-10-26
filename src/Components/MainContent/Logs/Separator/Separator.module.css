@@ -1,0 +1,27 @@
+.container {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.container p {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #6B7885;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    opacity: 0.2;
+}
+
+.container p {
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.container > p > span {
+    background: #F5F5F5;
+    padding: 0 20px;
+}

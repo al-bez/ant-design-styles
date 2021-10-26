@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 6px;
+}
+
+.label {
+    width: 128px;
+    font-family: SF Pro Display, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #000000;
+    margin-right: 23px;
+    margin-top: 12px;
+}
+
+.inputContainer {
+    width: 285px;
+}
